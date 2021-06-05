@@ -56,10 +56,5 @@ Schedule's documentation lives at `schedule.readthedocs.io <https://schedule.rea
 Meta
 ----
 
-Daniel Bader - `@dbader_org <https://twitter.com/dbader_org>`_ - mail@dbader.org
 
-Inspired by `Adam Wiggins' <https://github.com/adamwiggins>`_ article `"Rethinking Cron" <https://adam.herokuapp.com/past/2010/4/13/rethinking_cron/>`_ and the `clockwork <https://github.com/Rykian/clockwork>`_ Ruby module.
-
-Distributed under the MIT license. See `LICENSE.txt <https://github.com/dbader/schedule/blob/master/LICENSE.txt>`_ for more information.
-
-https://github.com/dbader/schedule
+https://github.com/ishaqafridi/at
