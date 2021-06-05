@@ -56,7 +56,7 @@ Usage
         c=pd.read_fasta('sequence(4)')
         import pymsa pm
         #Through Pymsa alignment at each worker processor take place, also called as job in this coding section
-        #Go to :pymsa/tests/test_score.py
+        #for sample unitest of multiple alignment Go to :pymsa/tests/test_score.py
         
 
 Documentation
