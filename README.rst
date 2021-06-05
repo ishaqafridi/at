@@ -46,6 +46,16 @@ Usage
     while True:
         schedule.run_pending()
         time.sleep(1)
+        
+        #The Job is 
+        import pandas as pd
+        # Through pandas read any number of fasta file
+        a=pd.read_fasta('sequence(2)')
+        b=pd.read_fasta('sequence(3)')
+        c=pd.read_fasta('sequence(4)')
+        import pymsa pm
+        #Through Pymsa alignment at each worker processor take place, also called as job in this coding section
+        
 
 Documentation
 -------------
