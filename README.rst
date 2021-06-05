@@ -10,6 +10,7 @@
 
 .. image:: https://img.shields.io/pypi/v/schedule.svg
         :target: https://pypi.python.org/pypi/schedule
+        pymsa/tests/test_score.py
 
 Python job scheduling for humans. Run Python functions (or any other callable) periodically using a friendly syntax.
 
@@ -55,6 +56,7 @@ Usage
         c=pd.read_fasta('sequence(4)')
         import pymsa pm
         #Through Pymsa alignment at each worker processor take place, also called as job in this coding section
+        #Go to :pymsa/tests/test_score.py
         
 
 Documentation
